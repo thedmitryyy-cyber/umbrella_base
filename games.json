@@ -38,6 +38,15 @@
     "img": "assets/images/re7.png"
   },
   {
+    "id": "lor",
+    "name": "Lorn's Lure",
+    "year": "2017",
+    "desc": "Страх и изоляция просачиваются сквозь трещины гнилых стен заброшенной фермы на американском Юге.",
+    "reqs": { "os": "Windows 10 (64-bit)", "cpu": "Intel Core i5-4460", "ram": "8 GB", "gpu": "GTX 760", "space": "8 GB" },
+    "magnet": "magnet:?xt=urn:btih:F27E1068C60D9717E2C262EF9EF7079683E14B9F&xl=1293977592&dn=Lorn%27s+Lure.7z.torrent&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D4b5a33504a4622b75620bb987d5fde34&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/4wDVrMfH/Image-1.png"
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "year": "2015",
