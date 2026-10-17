@@ -47,6 +47,16 @@
     "img": "https://i.ibb.co/4wDVrMfH/Image-1.png"
   },
   {
+    "id": "f122",
+    "name": "F1 2022",
+    "year": "2022",
+    "desc": "Управляйте потрясающими болидами Formula 1 сезона 2022. На ваш выбор предлагается полный список из 20 пилотов и 10 команд, а антураж отлично создадут захватывающие виртуальные элементы и видеовставки. Соберите команду и приведите её на первый ряд стартовой решётки в знаменитом режиме «Моя команда», участвуйте в гонках-дуэлях на разделённом экране или по сети — или позаимствуйте суперкар у одного из знаменитых пилотов в нашем новом событии «Pirelli: гладкие круги».
+Адаптивный ИИ — новая система ИИ, предназначенная для менее опытных игроков, позволяет вам комфортно чувствовать себя в каждой гонке.",
+    "reqs": { "os": "Windows 10 (64-bit)", "cpu": " Intel Core i3-2130 / AMD FX 4300", "ram": "8 GB", "gpu": "NVIDIA GTX 1050 Ti / AMD RX 470", "space": "44 GB" },
+    "magnet": "magnet:?xt=urn:btih:61d54e318d0d96b6011ce2bff1946a2482319190&dn=F1+22&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounc&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker2.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=http%3A%2F%2F125.227.35.196%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2F87.248.186.252%3A8080%2Fannounce&tr=http%3A%2F%2F210.244.71.25%3A6969%2Fannounce&tr=http%3A%2F%2F46.4.109.148%3A6969%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2F%5B2001%3A67c%3A28f8%3A92%3A%3A1111%3A1%5D%3A2710&tr=udp%3A%2F%2Fipv6.leechers-paradise.org%3A6969",
+    "img": "https://i.ibb.co/MyBMWv8R/Airbrush-IMAGE-ENHANCER-1792249431686-1792249431686.png"
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "year": "2015",
