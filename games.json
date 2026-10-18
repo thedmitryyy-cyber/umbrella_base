@@ -19,6 +19,26 @@
     "img": "https://i.ibb.co/zTyc9gh8/re2.png"
   },
   {
+    "id": "re4",
+    "name": "Resident Evil 4 Remake",
+    "year": "2020",
+    "desc": "Резидент Ивел 4 Ремейк – экшен от третьего лица, который предлагает вновь отправиться на просторы культовой истории про борьбу с зомби. В этой игре вам предстоит сыграть за легендарного агента по имени Леон Кеннеди и попытаться спасти дочь президента. Абсолютно все задания, которые поручались этому агенту он выполнял безупречно и быстро, но на этот раз ему предстоит столкнуться с совершенно новым ужасом, о котором никто и не подозревал. А чтобы помочь Леону спасти дочь президента, вам остается всего лишь скачать торрент Резидент Ивел 4 Ремейк на ПК и после этого можно отправляться в увлекательное приключение.",
+    "reqs": { "os": "Windows 10/11", "cpu": "Ryzen 3 1200 / Intel Core i5-7500", "ram": "8 GB", "gpu": "Radeon RX 560 / GeForce GTX 1050Ti", "space": "59 GB" },
+    "directUrl": "",
+    "magnet": "magnet:?xt=urn:btih:85C8B03F926DAAE3F8CE23EA8EE6172BEB7575E1&xl=64103738381&dn=Resident.Evil.4.%282023%29-InsaneRamZes.torrent&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D4b5a33504a4622b75620bb987d5fde34&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/zTWxnJqx/1666355645-cover.jpg"
+  },
+  {
+    "id": "re8",
+    "name": "Resident Evil Village",
+    "year": "2021",
+    "desc": "Resident Evil Village (2021) - это хоррор-игра, разработанная компанией Capcom. Сюжет игры разворачивается после событий Resident Evil 7: Biohazard и продолжает историю главного героя, Итана Уинтерса. Итан и его жена Миа начинают новую жизнь в мирной деревушке, но вскоре сталкиваются с ужасными событиями. Миа похищают, а Итан вынужден отправиться в смертоносную погоню, чтобы спасти свою семью и раскрыть тайны загадочной деревушки.",
+    "reqs": { "os": "Windows 10/11", "cpu": "Intel Core i5-7500", "ram": "8 GB", "gpu": "Radeon RX 560 / GeForce GTX 1050Ti", "space": "39 GB" },
+    "directUrl": "",
+    "magnet": "magnet:?xt=urn:btih:b18869fb2b56848656195cdffaf01f8569dd3744&dn=Resident+Evil+8+Village+%282021%29&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonoid.ch%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fwepzone.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.myporn.club%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrust-demo.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce",
+    "img": "https://i.ibb.co/xK792tPd/file1.jpg"
+  },
+  {
     "id": "stclear",
     "name": "S.T.A.L.K.E.R.: Clear Sky",
     "year": "2008",
