@@ -87,12 +87,18 @@
   },
   {
     "id": "re7",
-    "name": "Resident Evil 7: Biohazard - Gold Edition",
+    "name": "Resident Evil 7: Biohazard",
+    "exeName": "re7.exe",
     "year": "2017",
-    "desc": "Страх и изоляция просачиваются сквозь трещины гнилых стен заброшенной фермы на американском Юге.",
-    "reqs": { "os": "Windows 10 (64-bit)", "cpu": "Intel Core i5-4460", "ram": "8 GB", "gpu": "GTX 760", "space": "8 GB" },
-    "magnet": "magnet:?xt=urn:btih:A3FB13BC88B951E2C977D256D971FE7DAF94514C&xl=875961216&dn=Farm+Together+2.7z.torrent&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "img": "assets/images/re7.png"
+    "desc": "Главный герой - Итан Уинтерс, который ищет свою пропавшую супругу, попадает в мрачный заброшенный дом. Он еще не в курсе, что его там ожидает и вам предстоит пережить ряд невероятных событий. Игроков ждет интересное путешествие, по загадочному дому семьи Бейкеров, которые вследствие экспериментов, превратились в ходячее биологическое оружие.",
+    "reqs": { "os": "Windows 10 (64-bit)", "cpu": "Intel Core i5-4460", "ram": "8 GB", "gpu": "GeForce GTX 960", "space": "68 GB" },
+    "magnet": "magnet:?xt=urn:btih:322d7c51d77e0731e107d34f5a88bbaf8f2375f5&dn=R.E.7.Biohazard.Gold.Edition-InsaneRamZes&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/F4zT7cG5/file1-3.jpg",
+    "screenshots": [
+      "https://i.ibb.co/CRGV5m5/image.png",
+      "https://i.ibb.co/qL4sQWxY/image.png",
+      "https://i.ibb.co/tphWrf8K/image.png"
+    ]
   },
   {
     "id": "cbs",
