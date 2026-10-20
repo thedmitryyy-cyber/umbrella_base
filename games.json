@@ -7,12 +7,16 @@
     "reqs": { "os": "Windows 10/11", "cpu": "Intel Core i5-4460 / AMD FX-6300", "ram": "8 GB", "gpu": "NVIDIA GeForce GTX 760 / AMD Radeo R7 260x (2GB)", "space": "23 GB" },
     "directUrl": "",
     "magnet": "magnet:?xt=urn:btih:26dc37179d840cef62a7a2120b2406e800915fba&dn=Resident+Evil+2+Remake+%282019%29&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounc&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker2.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=http%3A%2F%2F125.227.35.196%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2F87.248.186.252%3A8080%2Fannounce&tr=http%3A%2F%2F210.244.71.25%3A6969%2Fannounce&tr=http%3A%2F%2F46.4.109.148%3A6969%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2F%5B2001%3A67c%3A28f8%3A92%3A%3A1111%3A1%5D%3A2710&tr=udp%3A%2F%2Fipv6.leechers-paradise.org%3A6969",
-    "img": "https://i.ibb.co/zTyc9gh8/re2.png"
+    "img": "https://i.ibb.co/zTyc9gh8/re2.png",
+    "screenshots": [
+      "https://i.ibb.co/5gzkN98K/1548504566-1.jpg",
+      "https://i.ibb.co/HfnbRb0v/1548504605-2.jpg"
+    ]
   },
   {
   "type": "update",
   "name": "Shell Store — доступно обновление",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "img": "https://i.ibb.co/39vHkT6M/Image-5.png",
   "siteUrl": "https://your-site.com/download"
   },
@@ -95,7 +99,7 @@
     "img": "https://i.ibb.co/RTCM18ZG/file1-1.jpg"
   },
   {
-    "id": "launcher",
+    "id": "launcher1",
     "name": "The Last Of Us 1(launcher)",
     "year": "2023",
     "desc": "The Last of Us Part 1 – боевик от третьего лица, рассказывающий историю о том, как люди столкнулись с паразитирующей болезнью и практически полностью вымерло. А те, кто остался в живых вынуждены противостоять опасным мутантам, которые при виде обычного человека начинают сразу его атаковать. В центре внимания окажется выживший мужчина и маленькая девочка, которые объединили свои усилия для спасения. Правда они не догадывались, с чем именно им предстоит столкнуться и почему мутанты будут не самой страшной опасностью в их приключении. Все что вам остается сделать, просто скачать торрент The Last of Us Part 1 Remake на ПК и можно отправляться в приключение.",
@@ -104,7 +108,7 @@
     "img": "https://i.ibb.co/MxCfjxQm/file1-2.jpg"
   },
   {
-    "id": "launcher",
+    "id": "launcher2",
     "name": "The Last Of Us 2(launcher)",
     "year": "2025",
     "desc": "The Last of Us Part 2 Remastered — продолжение серии в жанре приключенческий экшен 2013 года. Действия разворачиваются в — продолжение приключенческого боевика 2013 года. Действие происходит в постапокалиптическом мире, полностью разрушенном после появления смертельного вируса. За разработку отвечает известная студия Naughty Dog. Сюжетная история продолжает рассказывать о событиях, произошедших в оригинале, после которых прошло пять лет. Местом был Вайоминг. Во второй части главными героями становятся Элли и Эбби",
