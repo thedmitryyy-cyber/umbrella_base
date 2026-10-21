@@ -296,6 +296,21 @@
     ]
   },
   {
+    "id": "doomtda",
+    "name": "DOOM: The Dark Ages",
+    "exeName": "DOOMTheDarkAges.exe",
+    "year": "2025",
+    "desc": "DOOM: The Dark Ages (Дум: Тёмные Века) — приквел от id Software, отправляющий Палача Рока в тёмное фэнтезийное средневековье, где он служит оружием богов и королей. Щит-пила, тяжёлый наземный бой и войны богов вместо коридоров марсианской базы. До событий современной трилогии Палач Рока был не свободным мстителем, а инструментом в чужих руках — сверхоружием, которое пускали в ход, когда всё остальное уже не помогало. Действие разворачивается в мрачном средневековом сеттинге с осаждёнными крепостями, армиями демонов и масштабом, которого у серии раньше не было: это уже не зачистка помещений, а полноценная война.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": " Intel Core i7-10700K", "ram": "16 GB", "gpu": "RTX 2060 SUPER", "space": "149 GB" },
+    "magnet": "magnet:?xt=urn:btih:c5199edc599274ce416d1eb445d7ccfc3a2c0afc&dn=DOOM.The.Dark.Ages.Premium.Edition-InsaneRamZes&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/hRL6ffmD/image-11.png",
+    "screenshots": [
+      "https://i.ibb.co/9k6024bM/image.png",
+      "https://i.ibb.co/sJQXRzqG/image.png",
+      "https://i.ibb.co/ZRTZ92h7/image.png"
+    ]
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "exeName": "xrEngine.exe",
