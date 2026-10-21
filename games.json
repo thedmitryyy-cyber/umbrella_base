@@ -281,6 +281,21 @@
     ]
   },
   {
+    "id": "bgate3",
+    "name": "Baldur's Gate 3",
+    "exeName": "bg3_dx11.exe",
+    "year": "2023",
+    "desc": "Baldur’s Gate 3 переносит настольную Dungeons & Dragons на экран так близко к оригиналу, как это вообще возможно. Бельгийская студия Larian, авторы Divinity: Original Sin 2, построила игру на правилах пятой редакции, и почти любое действие здесь, от взлома замка до спора с драконом, решается броском двадцатигранного кубика. Герой приходит в себя после крушения корабля свежевателей разума. В голове у него личинка иллитида, которая должна была за несколько дней превратить его в чудовище, но почему-то этого не происходит. Рядом оказываются другие пленники с такой же бедой: высокомерная гитьянки Лаэзель, скрытная жрица Шэдоухарт, вампир Астарион, волшебник Гейл, бывший герой Уилл и тифлинг Карлах с пылающим сердцем. Вместе им предстоит найти лекарство, пока не стало поздно, а заодно выяснить, кто стоит за культом, который распространяет личинок по Побережью Мечей.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5 4690", "ram": "8 GB", "gpu": "Nvidia GTX 970", "space": "149 GB" },
+    "magnet": "magnet:?xt=urn:btih:4bef14da1d7e06ae5b5de9ac8bfbae86ab2b6f58&dn=Baldurs.Gate.3.GOG.Rip-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/nVLCh5T/image-10.png",
+    "screenshots": [
+      "https://i.ibb.co/v4c20PV2/image.png",
+      "https://i.ibb.co/TDGbgyd0/image.png",
+      "https://i.ibb.co/gLchqYR7/image.png"
+    ]
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "exeName": "xrEngine.exe",
