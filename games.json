@@ -356,6 +356,21 @@
     ]
   },
   {
+    "id": "dltb",
+    "name": "Dying Light: The Beast",
+    "exeName": "DyingLightGame_TheBeast_x64_rwdi.exe",
+    "year": "2025",
+    "desc": "Dying Light: The Beast – хотите отправится в Касторские леса, где вас ожидает собственное невероятное приключение? Это место некогда было настоящим раем для всех туристов, но теперь все окружение заполонено кровожадными зомби. Ну, а, начинается все с того, что после 13 лет кошмарных опытов вы наконец-то сбежали и теперь сможете отомстить за утраченные годы!",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-13400F", "ram": "16 GB", "gpu": "Nvidia GTX 1060", "space": "80 GB" },
+    "magnet": "magnet:?xt=urn:btih:261c68a8d7f8ef779fe474ee29fabc777dc52e83&dn=Dying.Light.The.Beast.Restored.Land.Edition-InsaneRamZes&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/LXsfj0Tk/1734066140-library-600x900-2x.jpg",
+    "screenshots": [
+      "https://i.ibb.co/BHG4wHzW/image.png",
+      "https://i.ibb.co/Cp5B1WdY/image.png",
+      "https://i.ibb.co/bxYDgdt/image.png"
+    ]
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "exeName": "xrEngine.exe",
