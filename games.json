@@ -266,6 +266,21 @@
     ]
   },
   {
+    "id": "gtav",
+    "name": "Grand Theft Auto V Enhanced",
+    "exeName": "PlayGTAV.exe",
+    "year": "2020",
+    "desc": "ГТА 5 (GTA 5) Enhanced — обновлённая версия культового криминального боевика от Rockstar Games, получившая графику некст-гена и ряд технических улучшений. Солнечный Лос-Сантос, три непохожих друг на друга героя и абсолютная свобода действий Майкл давно отошёл от дел и прячется в шикарном особняке по программе защиты свидетелей, но скучная жизнь состоятельного человека тяготит его сильнее, чем прошлые преступления. Франклин пытается выбраться из порочного круга уличной жизни, берясь то за угон машин, то за сомнительные поручения. Тревор — воплощение хаоса, торговец оружием и наркотиками из выжженного солнцем Блейн-Каунти, не признающий никаких правил. Однажды пути этих троих пересекаются, и цепь событий затягивает их в водоворот ограблений, погонь и предательств, от исхода которых зависит судьба всего Лос-Сантоса.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i7-4770", "ram": "8 GB", "gpu": "Nvidia GTX 1630", "space": "96 GB" },
+    "magnet": "magnet:?xt=urn:btih:b02e8a454e6b234730b15e893fd664c6fb1c4229&dn=Grand.Theft.Auto.V.Enhanced-InsaneRamZes&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/G4hV5Qgv/Artguru-Upscale-cover.png",
+    "screenshots": [
+      "https://i.ibb.co/1t9L0QB8/image.png",
+      "https://i.ibb.co/93H8mg06/image.png",
+      "https://i.ibb.co/1JGmRBCP/image.png"
+    ]
+  },
+  {
     "id": "stcher",
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
     "exeName": "xrEngine.exe",
