@@ -691,13 +691,73 @@
     "exeName": "Game_f_x64_EOS.exe",
     "year": "2012",
     "desc": "Alan Wake Remastered — переиздание культового триллера Remedy Entertainment, в котором экшен сочетается с психологическим хоррором, а главный враг боится обычного света. Туманный северо-запад США, рукопись, оживающая наяву, и ночи, которые хочется пережить поскорее. Днём Брайт-Фоллс выглядит обычным курортным городком: озеро, лесистые горы, закусочная и местные жители, которые знают друг друга по именам. Но с наступлением темноты всё меняется. Леса наполняются людьми, захваченными тёмной сущностью, а знакомые тропинки превращаются в ловушки. Именно этот контраст между уютным днём и жуткой ночью и делает атмосферу игры такой запоминающейся — многие не случайно сравнивают её с «Твин Пикс».",
-    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Core i5-3340", "ram": "8 GB", "gpu": "GeForce GTX 960", "space": "76 GB" },
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Core i5-3340", "ram": "8 GB", "gpu": "GeForce GTX 960", "space": "38 GB" },
     "magnet": "magnet:?xt=urn:btih:8d25378a7db7e03e72caf5373b5a1f6b348010de&dn=Alan+Wake+Remastered+%282012-2021%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonoid.ch%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.myporn.club%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrust-demo.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.0x7c0.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftr4ck3r.duckdns.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fleet-tracker.moe%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fd40969.acod.regrucolo.ru%3A6969%2Fannounce&tr=udp%3A%2F%2F6ahddutb1ucc3cp.ru%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.moeking.me%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.cutie.dating%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.bt4g.com%3A443%2Fannounce&tr=https%3A%2F%2Ftorrent.tracker.durukanbal.com%3A443%2Fannounce&tr=https%3A%2F%2Fbt.bontal.net%3A443%2Fannounce&tr=http%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.zhuqiy.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.tritan.gg%3A8080%2Fannounce&tr=http%3A%2F%2Ftracker.skyts.net%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.darkness.services%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.cutie.dating%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=http%3A%2F%2Ftracker.23794.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftr.kxmp.cf%3A80%2Fannounce&tr=http%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=http%3A%2F%2Flucke.fenesisu.moe%3A6969%2Fannounce&tr=http%3A%2F%2Fextracker.dahrkael.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbvarf.tracker.sh%3A2086%2Fannounce&tr=http%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Futracker.ghostchu-services.top%3A6969%2Fannounce&tr=udp%3A%2F%2Fudp.tracker.projectk.org%3A23333%2Fannounce&tr=udp%3A%2F%2Ftracker3.t-1.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.t-1.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tvunderground.org.ru%3A3218%2Fannounce&tr=udp%3A%2F%2Ftracker.therarbg.to%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.t-1.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.plx.im%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.playground.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.flatuslifir.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ducks.party%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.1h.is%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker-de-2.cutie.dating%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A54123%2Fannounce&tr=udp%3A%2F%2Fns575949.ip-51-222-82.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Fconcen.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt.rer.lol%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.uraniumhexafluori.de%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.qingwa.pro%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.ghostchu-services.top%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.gcrenwp.top%3A443%2Fannounce&tr=https%3A%2F%2Ftr.nyacat.pw%3A443%2Fannounce&tr=https%3A%2F%2Ft.213891.xyz%3A443%2Fannounce&tr=https%3A%2F%2Fshahidrazi.online%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.waaa.moe%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ghostchu-services.top%3A80%2Fannounce&tr=http%3A%2F%2Ftr.nyacat.pw%3A80%2Fannounce&tr=http%3A%2F%2Ftr.highstar.shop%3A80%2Fannounce&tr=http%3A%2F%2Fbt.rer.lol%3A2710%2Fannounce&tr=http%3A%2F%2Faboutbeautifulgallopinghorsesinthegreenpasture.online%3A80%2Fannounce&tr=http%3A%2F%2F1337.abcvg.info%3A80%2Fannounce",
     "img": "https://i.ibb.co/3yX9LLsx/ba97b4479f-screenshot-94-Nero-AI-Image-Upscaler-Photo-Face.webp",
     "screenshots": [
       "https://i.ibb.co/Mk6D4FQY/image.png",
       "https://i.ibb.co/q3RNTqPz/image.png",
       "https://i.ibb.co/B2R6SdQw/image.png"
+    ]
+  },
+  {
+    "id": "pmr",
+    "name": "Project Motor Racing",
+    "exeName": "ProjectMotorRacingGame.exe",
+    "year": "2025",
+    "desc": "Project Motor Racing — это не просто игра, а гоночная лаборатория, где каждый элемент подчинён точности, реализму и страсти к скорости. От первого поворота до финального флага вас ждет мир, где каждая деталь дышит гонками.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i7-8700", "ram": "16 GB", "gpu": "Nvidia RTX 2060", "space": "64 GB" },
+    "magnet": "magnet:?xt=urn:btih:284a840bd89ccc1a6ec8c04f6528fd188e97b811&dn=Project.Motor.Racing.Year.1.Bundle-InsaneRamZes&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "img": "https://i.ibb.co/Qjr6sPhX/ccaa72bee1-library-600x900-2x-Nero-AI-Image-Upscaler-Photo-Face.webp",
+    "screenshots": [
+      "https://i.ibb.co/0pCrbbWd/image.png",
+      "https://i.ibb.co/hzpLW76/image.png",
+      "https://i.ibb.co/LXHjXhf5/image.png"
+    ]
+  },
+  {
+    "id": "nio3",
+    "name": "Nioh 3",
+    "exeName": "Nioh3.exe",
+    "year": "2026",
+    "desc": "Nioh 3 — это новая глава тёмного самурайского экшена, где вы пройдёте сквозь боль, предательство и сверхъестественные силы, чтобы стать тем, кто решит судьбу эпохи. Горнило войны открывает только один путь — вперёд, сквозь кровь. Япония вновь расколота, и Горнило вырывается наружу — древняя сила, превращающая землю в арену страданий. Вы — ронин без прошлого, наделённый проклятием видеть истинный облик ёкаев. Чтобы понять свою природу и выжить, вы должны бросить вызов тьме, пробиться через деревни, искажённые злобой, и сразиться с теми, кто забыл, что значит быть человеком.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-10400", "ram": "16 GB", "gpu": "Nvidia GTX 1060", "space": "126 GB" },
+    "magnet": "magnet:?xt=urn:btih:0d5f6d7f3ddb2fd4a227fd3209e216e8b44b6280&dn=Nioh.3.Digital.Deluxe.Edition-InsaneRamZes&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "img": "https://i.ibb.co/zhFWZLwf/467070f145-library-capsule-2x-Nero-AI-Image-Upscaler-Photo-Face.webp",
+    "screenshots": [
+      "https://i.ibb.co/LdxBdsX7/image.png",
+      "https://i.ibb.co/Z1hrYYNW/image.png",
+      "https://i.ibb.co/B5nGksYk/image.png"
+    ]
+  },
+  {
+    "id": "ccd20",
+    "name": "City Car Driving 2.0",
+    "exeName": "CityCarDriving2.exe",
+    "year": "2026",
+    "desc": "City Car Driving 2.0 — это симулятор вождения, который делает ставку на реализм и практику. Здесь не нужно первым пересекать финишную черту или выигрывать чемпионаты. Главная задача — научиться уверенно управлять автомобилем в условиях, максимально приближенных к настоящим дорогам. Каждый выезд требует внимания к деталям, ведь даже обычная поездка по городу может преподнести немало испытаний.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5 - 8400", "ram": "8 GB", "gpu": "Nvidia GTX 1660", "space": "13 GB" },
+    "magnet": "magnet:?xt=urn:btih:29e51749add8047a32eca102a36e24f1a5cfdca4&dn=City.Car.Driving.2.0-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/LXDCcyV1/748e6d70ad-capsule-Nero-AI-Image-Upscaler-Photo.webp",
+    "screenshots": [
+      "https://i.ibb.co/Zq2VBP9/image.png",
+      "https://i.ibb.co/s9gdx4Bh/image.png",
+      "https://i.ibb.co/XxX5hpnq/image.png"
+    ]
+  },
+  {
+    "id": "citicky2",
+    "name": "Cities: Skylines 2",
+    "exeName": "Cities2.exe",
+    "year": "2023",
+    "desc": "Cities: Skylines 2 – в этом невероятном городе не будет никаких ограничений! Ведь разработчики предлагают вам тщательно проработанную симуляцию или один из самых увлекательных симуляторов в мире. Приступите к созданию своего города мечты! Потому что в данном симуляторе вы найдете исключительно хорошо проработанный мир и живую экономику. Так что постарайтесь принимать верные решения и постройте процветающий городок.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i7-6700K", "ram": "8 GB", "gpu": "Nvidia GTX 970", "space": "97 GB" },
+    "magnet": "magnet:?xt=urn:btih:7ab448b485f777f2681f56e041fc57d68213e728&dn=Cities+Skylines+II+%282023%29&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ilibr.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ducks.party%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.auctor.tv%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.0x7c0.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftr4ck3r.duckdns.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A54123%2Fannounce",
+    "img": "https://i.ibb.co/WvqCkXdg/1678184645-library-600x900-2x-Nero-AI-Image-Upscaler-Photo-Face.webp",
+    "screenshots": [
+      "https://i.ibb.co/WNfxZbHx/image.png",
+      "https://i.ibb.co/FLJC6jkZ/image.png",
+      "https://i.ibb.co/XZPKv324/image.png"
     ]
   },
   {
