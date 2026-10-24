@@ -641,6 +641,36 @@
     ]
   },
   {
+    "id": "colossus",
+    "name": "Shadow of the Colossus",
+    "exeName": "SotC.exe",
+    "year": "2018",
+    "desc": "Shadow of the Colossus — это необычная игра о путешествии по древним землям, где единственными достойными противниками становятся исполинские существа. Главная цель героя — вернуть к жизни девушку, и ради этого он должен одолеть шестнадцать колоссов. Обычного оружия недостаточно для победы над такими созданиями: вам придётся изучать их движения, искать уязвимости и использовать окружающее пространство, чтобы добраться до слабых мест. Запустить, выбрать папку - Game.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-9600K", "ram": "8 GB", "gpu": "Nvidia GTX 1660 TI", "space": "39 GB" },
+    "magnet": "magnet:?xt=urn:btih:09b36dd57b428bc4023a35da9860023dc23b043f&dn=ShadowOfTheColossus-PC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/XZM9b1bF/c4932c34ec-0773b0f72cd685e5584ecb31be627f8d-imgupscaler-ai-2-K.jpg",
+    "screenshots": [
+      "https://i.ibb.co/k2GnWWNm/image.png",
+      "https://i.ibb.co/KxsR3xPv/image.png",
+      "https://i.ibb.co/8DQRsDMS/image.png"
+    ]
+  },
+  {
+    "id": "armaref",
+    "name": "Arma Reforger",
+    "exeName": "ArmaReforgerSteam.exe",
+    "year": "2023",
+    "desc": "Arma Reforger – симулятор ведения боевых действий от лица командира или обычного солдата. Легендарная серия возвращается, чтобы дать вам возможность вернуться на просторы Эверона площадью 51 квадратный километр. На этот раз вас вновь ждет масса различных приключений, начиная с обычного исследования острова, заканчивая участием в масштабных военных битвах. Все зависит от настроек сервера, настроения администратора и т.д. Но если вас это не пугает, то можете начинать свое приключение с целью самореализации или просто новых впечатлений от игры.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-8400", "ram": "8 GB", "gpu": "Nvidia GTX 1650", "space": "39 GB" },
+    "magnet": "magnet:?xt=urn:btih:611fa62d6e53fdd9b0afb6eeb2d45f774fddfb51&dn=Arma+Reforger&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://i.ibb.co/h1rX7HLw/1662931438-library-600x900-2-Nero-AI-Image-Upscaler-Photo-Face.webp",
+    "screenshots": [
+      "https://i.ibb.co/N2J66dqW/image.png",
+      "https://i.ibb.co/0RtVkp4J/image.png",
+      "https://i.ibb.co/1t0sRHT6/image.png"
+    ]
+  },
+  {
     "id": "dishor2",
     "name": "Dishonored 2",
     "exeName": "Dishonored2.exe",
