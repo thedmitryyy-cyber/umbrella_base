@@ -881,6 +881,51 @@
     ]
   },
   {
+    "id": "assasinvalh",
+    "name": "Assassin's Creed Valhalla",
+    "exeName": "ACValhalla.exe",
+    "year": "2020",
+    "desc": "Assassins Creed Valhalla – ролевой экшен от третьего лица, который предлагает отправиться в древнюю Англию 9 века и стать самым настоящим викингом по имени Эйвор. Наверняка вы наслышаны о подвигах и набегах викингов, которые атаковали ближайшие земли, чтобы создать свое поселение. И теперь у вас появится возможность лично проследить, как именно это происходило, какими эпическими были сражения и какой мистической мифологией окутаны приключения викингов.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Ryzen R3 1200 / Core i5-4460", "ram": "16 GB", "gpu": "Radeon R9 380 / GeForce GTX 960", "space": "145 GB" },
+    "magnet": "magnet:?xt=urn:btih:2BFE0E962B65EEED51FB43806718BB802B01E813&xl=155648744156&dn=Assassin%27s+Creed+Valhalla.torrent&tr=http%3A%2F%2Fgmt-max.org%3A2710%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3Dff97569cfd157fa554952e4ce8855879&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+    "img": "https://i.ibb.co/7Jxrvg8t/1664490096-cover-Nero-AI-Image-Upscaler-Photo.jpg",
+    "screenshots": [
+      "https://i.ibb.co/qFRz0r2k/image.png",
+      "https://i.ibb.co/XfwyJSgr/image.png",
+      "https://i.ibb.co/fVsS4H33/image.png"
+    ]
+  },
+  {
+    "id": "assasinshad",
+    "name": "Assassin's Creed Shadows",
+    "exeName": "ACShadows.exe",
+    "year": "2025",
+    "desc": "Assassin's Creed Shadows – отправьтесь навстречу невероятной феодальной Японии вместе с нашим проработанным адвенчур-экшеном! Где поразительная ловкость синоби-ассасина сойдутся с мощью известного самурая. И все это, несомненно, поможет отыскать собственный путь сквозь обширный открытый мир, в котором царит раздор. Постарайтесь узнать, что на самом деле объединяет этих двоих, и откройте для себя совершенно новую эпоху в истории Японии. Что же касается второй роли, то здесь вы будете играть черным самураем. К тому же, теперь персонажи стали выглядеть еще более характерно, чем в предыдущих играх серии",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i7-4790", "ram": "8 GB", "gpu": "Nvidia GTX 1060 6 GB", "space": "175 GB" },
+    "magnet": "magnet:?xt=urn:btih:7427556FD71D660B744A9E2357645DC9393D76CC&xl=188201086453&dn=Assassins+Creed+Shadows+%282025%29.torrent&tr=http%3A%2F%2Fgmt-max.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonoid.ch%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fwepzone.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.myporn.club%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrust-demo.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce",
+    "img": "https://i.ibb.co/bMrP8Vnv/library-600x900-1-Nero-AI-Image-Upscaler-Photo.webp",
+    "screenshots": [
+      "https://i.ibb.co/VYMRPV05/image.png",
+      "https://i.ibb.co/spghKVcb/image.png",
+      "https://i.ibb.co/LzwqRXtc/image.png"
+    ]
+  },
+  {
+    "id": "mafia1",
+    "name": "Mafia Definitive Edition",
+    "exeName": "launcher.exe",
+    "year": "2020",
+    "desc": "Mafia: Definitive Edition – ремейк классики, который предлагает вновь отправиться в приключение, которое пропитано гангстерской романтикой и разнообразными элементами приключений, связанных с мафией. В игре вам предстоит взять на себя роль таксиста по имени Томми Анджело. Он пытался выжить в большом городе, зарабатывая копейки, но очередной вызов стал для него судьбоносным. Он помог неким преступникам избежать расправы и его пригласили в мафию. Поначалу он скептически к этому относился, но когда почувствовал власть и деньги, то стал одним из основных членов преступной группировки.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core-i5 2550K 3.4GHz / AMD FX 8120", "ram": "6 GB", "gpu": "GeForce GTX 660 / Radeon HD 7870", "space": "37 GB" },
+    "magnet": "magnet:?xt=urn:btih:89e74be2c0a799aa9b29451b06eca62445d5469d&dn=rutor.org_Mafia%3A+Definitive+Edition+%5Bbuild+7368608+%2B+DLC%5D+%282020%29+PC+%7C+Portable&tr=udp://opentor.net:6969&tr=retracker.local/announce",
+    "img": "https://i.ibb.co/DPnKLRWz/1665962313-cover-Nero-AI-Image-Upscaler-Photo.webp",
+    "screenshots": [
+      "https://i.ibb.co/VYMRPV05/image.png",
+      "https://i.ibb.co/jZkyDBx1/image.png",
+      "https://i.ibb.co/5hRYGSrc/image.png"
+    ]
+  },
+  {
     "id": "dishor2",
     "name": "Dishonored 2",
     "exeName": "Dishonored2.exe",
