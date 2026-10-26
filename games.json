@@ -1003,6 +1003,21 @@
     ]
   },
   {
+    "id": "farcr5",
+    "name": "Fаr Cry 5",
+    "exeName": "FarCry5.exe",
+    "year": "2018",
+    "desc": "Far Cry 5 — новая глава легендарной серии от Ubisoft, переносящая вас в округ Хоуп, штат Монтана, глубоко погрязший в хаосе религиозного культа «Врата Эдема». Безмятежная американская глубинка превратилась в поле боя, где каждая ферма может стать засадой, а каждое озеро скрывает угрозу. Мрачная история, бескомпромиссные перестрелки и борьба за свободу",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Core i5-2400 / FX-6300", "ram": "8 GB", "gpu": "GTX 670 / R9 270 (2GB VRAM)", "space": "94 GB" },
+    "magnet": "magnet:?xt=urn:btih:13dc8d4580f1aeddcd24d159d2d3a5b7b56e5288&dn=Far.Cry.5-InsaneRamZes&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.therarbg.to%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.auctor.tv%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.nekomi.cn%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.bt4g.com%3A443%2Fannounce&tr=https%3A%2F%2Fpybittrack.retiolus.net%3A443%2Fannounce&tr=https%3A%2F%2Fht.therarbg.to%3A443%2Fannounce&tr=https%3A%2F%2F004430.xyz%3A443%2Fannounce",
+    "img": "https://i.ibb.co/SX38brhK/a24a8984a7-far-cry-5-Nero-AI-Image-Upscaler-Photo.webp",
+    "screenshots": [
+      "https://i.ibb.co/MDq1LymY/image.png",
+      "https://i.ibb.co/MXDXtP6/image.png",
+      "https://i.ibb.co/TBrmfzXH/image.png"
+    ]
+  },
+  {
     "id": "dishor2",
     "name": "Dishonored 2",
     "exeName": "Dishonored2.exe",
