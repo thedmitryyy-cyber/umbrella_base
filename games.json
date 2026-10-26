@@ -946,14 +946,14 @@
     "exeName": "farcry3.exe",
     "setupName": "Setup.exe",
     "year": "2021",
-    "desc": "Days Gone Remastered – отличный вариат для поклонников историй о зомби. Примерьте на себя образ бывшего бандита Дикона Сейнта Джона и получите удовольствие от приключений! Действие развернулось после двухлетней всемирной пандемии, зомбировавшей людей. Игроку придется выживать в критических условиях и окружении зомби, а параллельно со всем этим исследовать мир.",
-    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-2500K", "ram": "8 GB", "gpu": "Nvidia GTX 780", "space": "62 GB" },
+    "desc": "ВНИМАНИЕ, ИГРА СКАЧИВАЕТСЯ В ВИДЕ СЖАТОГО РЕПАКА И ПРОХОДИТ АВТОМАТИЧЕСКУЮ УСТАНОВКУ. ДЛЯ ПРОЦЕССА МОЖЕТ ПОТРЕБОВАТЬСЯ ОКОЛО 15GB МЕСТА НА ДИСКЕ, ПО ЗАВЕРШЕНИЮ РЕПАК БУДЕТ УДАЛЕН(ОСТАНЕТСЯ ТОЛЬКО ИГРА) Far Cry 3 – приключенческий шутер от первого лица, позволяющий отправиться на красочный и живописный остров. Поначалу история расскажет о том, как группа молодых людей отправилась отдыхать в райский уголок и в результате попали в плен к террористам. Многие погибли сразу, некоторые остались в плену, а главный герой смог сбежать и теперь вынужден сделать все, чтобы выжить и постараться спасти, если кто еще остался в живых с его группы. В любом случае предстоит внимательно исследовать окружение и пытаться любыми средствами освобождать остров от влияния этих террористов. Путь будет долгим, главное правильно использовать все свои доступные возможности.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core2 Duo E6700 / AMD Athlon64 X2 6000", "ram": "2 GB", "gpu": "Nvidia GTX 780", "space": "7 GB" },
     "magnet": "magnet:?xt=urn:btih:83fdca1d978e8978c03bd4a9faf2785fb1773a13&dn=Far+Cry+3+%5BRepack+by+seleZen%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt.desol.one%3A2710%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
-    "img": "https://i.ibb.co/Y7yM3RL0/1745562966-library-600x900-2x-Nero-AI-Image-Upscaler-Photo.webp",
+    "img": "https://i.ibb.co/1tRB2wrG/1687268720-library-600x900-2x-2-Nero-AI-Image-Upscaler-Photo.webp",
     "screenshots": [
-      "https://i.ibb.co/FbZRpsS6/image.png",
-      "https://i.ibb.co/qLb6z4NB/image.png",
-      "https://i.ibb.co/vv1fmfjD/image.png"
+      "https://i.ibb.co/4n88C3bq/image.png",
+      "https://i.ibb.co/pvhpSXP8/image.png",
+      "https://i.ibb.co/7d5RS74M/image.png"
     ]
   },
   {
