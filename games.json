@@ -1018,6 +1018,21 @@
     ]
   },
   {
+    "id": "farcrprim",
+    "name": "Far Cry Primal",
+    "exeName": "FCPrimal.exe",
+    "year": "2016",
+    "desc": "Far Cry Primal – шутер от первого лица, который предлагает отправиться в Древний мир и воспользоваться своими возможностями для восстановления племени своих людей. История игры рассказывает о том, как один охотник стал свидетелем гибели своего племени от лап саблезубого тигра. Он остался в живых и теперь намерен найти убийц своих родных, правда выжить в одиночку в столь опасном и жестоком мире невозможно, поэтому предстоит присоединиться к другому племени. А там уже полностью довериться своим инстинктам, чтобы получить не только новые возможности, но и стать могущественным воином.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i3-550 @ 3.2 GHz или AMD Phenom II X4 955", "ram": "8 GB", "gpu": "Nvidia GeForce GTX 460 (1ГБ VRAM) или AMD HD5770", "space": "20 GB" },
+    "magnet": "magnet:?xt=urn:btih:c5c319ec0145bbd1ee9cf28f8139c073b63ad096&dn=Far+Cry+Primal&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3Dfacfd08083faeb49ac3ff9468b879b51",
+    "img": "https://i.ibb.co/JWpG70VQ/938c01434d-library-600x900-2x-Nero-AI-Image-Upscaler-Photo.webp",
+    "screenshots": [
+      "https://i.ibb.co/q3R9XwBL/image.png",
+      "https://i.ibb.co/N266XpMt/image.png",
+      "https://i.ibb.co/RpTR04WS/image.png"
+    ]
+  },
+  {
     "id": "dishor2",
     "name": "Dishonored 2",
     "exeName": "Dishonored2.exe",
