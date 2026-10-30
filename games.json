@@ -1048,6 +1048,21 @@
     ]
   },
   {
+    "id": "moublade2",
+    "name": "Mount & Blade 2 Bannerlord",
+    "exeName": "TaleWorlds.MountAndBlade.Launcher.exe",
+    "year": "2022",
+    "desc": "Mount & Blade 2 Bannerlord – стратегическая ролевая игра, которая предлагает отправиться назад на 200 лет до начала событий первой части приключения. На этот раз вам предстоит вторгнуться в мир, который полностью окутан гражданской войной. Вы будете играть в роли молодого лорда, который даже не имеет своего замка и армии. Поэтому вам предстоит искать способ для поднятия своего статуса, захватить город и начать создавать империю. Вроде ба задача максимально простая, но реализовать ее будет крайне сложно.",
+    "reqs": { "os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i3-8100", "ram": "8 GB", "gpu": "Nvidia GTX 660", "space": "91 GB" },
+    "magnet": "magnet:?xt=urn:btih:629cf8beabc21a5ec369563a599ba82ec0a0c935&dn=Mount.and.Blade.II.Bannerlord-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3Dfacfd08083faeb49ac3ff9468b879b51&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "img": "https://github.com/thedmitryyy-cyber/covers/blob/main/moublade2.jpeg?raw=true",
+    "screenshots": [
+      "https://github.com/thedmitryyy-cyber/covers/blob/main/moublade2dop.jpg?raw=true",
+      "https://github.com/thedmitryyy-cyber/covers/blob/main/moublade2dop2.jpg?raw=true",
+      "https://github.com/thedmitryyy-cyber/covers/blob/main/moublade2dop3.jpg?raw=true"
+    ]
+  },
+  {
     "id": "metroex",
     "name": "Metro Exodus",
     "exeName": "MetroExodus.exe",
